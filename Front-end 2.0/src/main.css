@@ -1,0 +1,43 @@
+#title {
+  margin-top: 19%;
+}
+#input{
+  width: 500px;
+  height: 45px;
+  margin-top: 1%;
+  border: 3px solid rgb(140, 63, 228);
+  border-radius: 8px;
+}
+#btn{
+  margin-top: 2%;
+  width: 6%;
+  background-color: rgb(140, 63, 228);
+}
+#error{
+  margin-top: 2%;
+  width: 500px;
+  margin: 0 auto;
+}
+#danger{
+  width: 500px;
+}
+
+#img{
+  margin-top:1%;
+  margin-bottom: 1%;
+}
+
+#btn1{
+  float:left;
+  margin-left:730px;
+  width: 4%;
+  background-color: rgb(140, 63, 228);
+  border-radius: 5px;
+  color: white;
+}
+
+#like{
+  margin-left: 935px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
