@@ -32,7 +32,7 @@ import axios from 'axios'
 
 
    /* async function Like(){
-      await axios.post("http://localhost:8081/like", data).then((res) =>{
+      await axios.put("http://localhost:8081/like", data).then((res) =>{
         console.log(res)
       }).catch((err)=>{
         console.log(err)
